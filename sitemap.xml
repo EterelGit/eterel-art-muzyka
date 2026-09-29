@@ -1,67 +1,321 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://muzyka.eterel.art/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/studio-logo.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://muzyka.eterel.art/en/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/studio-logo.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://muzyka.eterel.art/release/wiatry-losu-na-dachu-ycia/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/wiatry-losu-na-dachu-ycia/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/wiatry-losu-na-dachu-ycia/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/wiatry-losu-na-dachu-ycia/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/wiatry-losu-na-dachu-ycia/cover.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://muzyka.eterel.art/en/release/wiatry-losu-na-dachu-ycia/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/wiatry-losu-na-dachu-ycia/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/wiatry-losu-na-dachu-ycia/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/wiatry-losu-na-dachu-ycia/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/wiatry-losu-na-dachu-ycia/cover.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://muzyka.eterel.art/release/nadzieja-zawr-t-g-owy/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/nadzieja-zawr-t-g-owy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/nadzieja-zawr-t-g-owy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/nadzieja-zawr-t-g-owy/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/nadzieja-zawr-t-g-owy/cover.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://muzyka.eterel.art/en/release/nadzieja-zawr-t-g-owy/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/nadzieja-zawr-t-g-owy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/nadzieja-zawr-t-g-owy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/nadzieja-zawr-t-g-owy/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/nadzieja-zawr-t-g-owy/cover.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://muzyka.eterel.art/release/irpl-futurystyczna-utopia/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/irpl-futurystyczna-utopia/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/irpl-futurystyczna-utopia/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/irpl-futurystyczna-utopia/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/irpl-futurystyczna-utopia/cover.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://muzyka.eterel.art/en/release/irpl-futurystyczna-utopia/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/irpl-futurystyczna-utopia/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/irpl-futurystyczna-utopia/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/irpl-futurystyczna-utopia/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/irpl-futurystyczna-utopia/cover.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://muzyka.eterel.art/release/bokiem-nie-m-w-tak-do-mnie/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/bokiem-nie-m-w-tak-do-mnie/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/bokiem-nie-m-w-tak-do-mnie/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/bokiem-nie-m-w-tak-do-mnie/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/bokiem-nie-m-w-tak-do-mnie/cover.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://muzyka.eterel.art/en/release/bokiem-nie-m-w-tak-do-mnie/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/bokiem-nie-m-w-tak-do-mnie/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/bokiem-nie-m-w-tak-do-mnie/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/bokiem-nie-m-w-tak-do-mnie/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/bokiem-nie-m-w-tak-do-mnie/cover.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://muzyka.eterel.art/release/bokiem-jasno-te-szk-a/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/bokiem-jasno-te-szk-a/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/bokiem-jasno-te-szk-a/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/bokiem-jasno-te-szk-a/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/bokiem-jasno-te-szk-a/cover.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://muzyka.eterel.art/en/release/bokiem-jasno-te-szk-a/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/bokiem-jasno-te-szk-a/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/bokiem-jasno-te-szk-a/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/bokiem-jasno-te-szk-a/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/bokiem-jasno-te-szk-a/cover.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://muzyka.eterel.art/release/wiatry-losu-w-ska-droga-w-k-osach/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/wiatry-losu-w-ska-droga-w-k-osach/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/wiatry-losu-w-ska-droga-w-k-osach/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/wiatry-losu-w-ska-droga-w-k-osach/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/wiatry-losu-w-ska-droga-w-k-osach/cover.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/wiatry-losu-w-ska-droga-w-k-osach/media/1790544702924-b00db464-0001.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/wiatry-losu-w-ska-droga-w-k-osach/media/1790544709438-fc2c172c-001.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/wiatry-losu-w-ska-droga-w-k-osach/media/1790544730782-3bcf39e4-002_s.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://muzyka.eterel.art/en/release/wiatry-losu-w-ska-droga-w-k-osach/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/wiatry-losu-w-ska-droga-w-k-osach/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/wiatry-losu-w-ska-droga-w-k-osach/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/wiatry-losu-w-ska-droga-w-k-osach/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/wiatry-losu-w-ska-droga-w-k-osach/cover.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/wiatry-losu-w-ska-droga-w-k-osach/media/1790544702924-b00db464-0001.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/wiatry-losu-w-ska-droga-w-k-osach/media/1790544709438-fc2c172c-001.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/wiatry-losu-w-ska-droga-w-k-osach/media/1790544730782-3bcf39e4-002_s.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://muzyka.eterel.art/release/puls-nocy-dym-klubowy/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/puls-nocy-dym-klubowy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/puls-nocy-dym-klubowy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/puls-nocy-dym-klubowy/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy-dym-klubowy/cover.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://muzyka.eterel.art/en/release/puls-nocy-dym-klubowy/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/puls-nocy-dym-klubowy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/puls-nocy-dym-klubowy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/puls-nocy-dym-klubowy/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy-dym-klubowy/cover.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://muzyka.eterel.art/release/wiatry-losu-wiat-bez-mi-o-ci/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/wiatry-losu-wiat-bez-mi-o-ci/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/wiatry-losu-wiat-bez-mi-o-ci/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/wiatry-losu-wiat-bez-mi-o-ci/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/wiatry-losu-wiat-bez-mi-o-ci/cover.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/wiatry-losu-wiat-bez-mi-o-ci/media/1790543837366-02b258f0-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/wiatry-losu-wiat-bez-mi-o-ci/media/1790543841713-f03be406-2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/wiatry-losu-wiat-bez-mi-o-ci/media/1790543847309-e2c48c6e-03.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://muzyka.eterel.art/en/release/wiatry-losu-wiat-bez-mi-o-ci/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/wiatry-losu-wiat-bez-mi-o-ci/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/wiatry-losu-wiat-bez-mi-o-ci/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/wiatry-losu-wiat-bez-mi-o-ci/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/wiatry-losu-wiat-bez-mi-o-ci/cover.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/wiatry-losu-wiat-bez-mi-o-ci/media/1790543837366-02b258f0-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/wiatry-losu-wiat-bez-mi-o-ci/media/1790543841713-f03be406-2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/wiatry-losu-wiat-bez-mi-o-ci/media/1790543847309-e2c48c6e-03.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://muzyka.eterel.art/release/progresywny-gwia-dzista-cie-ka/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/progresywny-gwia-dzista-cie-ka/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/progresywny-gwia-dzista-cie-ka/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/progresywny-gwia-dzista-cie-ka/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/progresywny-gwia-dzista-cie-ka/cover.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/progresywny-gwia-dzista-cie-ka/media/1790542847907-665e5ba8-przyczepa.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/progresywny-gwia-dzista-cie-ka/media/1790542871364-3905919e-jagody-z-ksi-yca1.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/progresywny-gwia-dzista-cie-ka/media/1790542918126-71312db4-ko-mita.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/progresywny-gwia-dzista-cie-ka/media/1790542934852-55ad439e-jump.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://muzyka.eterel.art/en/release/progresywny-gwia-dzista-cie-ka/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/progresywny-gwia-dzista-cie-ka/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/progresywny-gwia-dzista-cie-ka/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/progresywny-gwia-dzista-cie-ka/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/progresywny-gwia-dzista-cie-ka/cover.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/progresywny-gwia-dzista-cie-ka/media/1790542847907-665e5ba8-przyczepa.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/progresywny-gwia-dzista-cie-ka/media/1790542871364-3905919e-jagody-z-ksi-yca1.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/progresywny-gwia-dzista-cie-ka/media/1790542918126-71312db4-ko-mita.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/progresywny-gwia-dzista-cie-ka/media/1790542934852-55ad439e-jump.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://muzyka.eterel.art/release/m-j-kraj/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/m-j-kraj/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/m-j-kraj/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/m-j-kraj/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/m-j-kraj/cover.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://muzyka.eterel.art/en/release/m-j-kraj/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/m-j-kraj/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/m-j-kraj/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/m-j-kraj/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/m-j-kraj/cover.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://muzyka.eterel.art/release/sztuczne-cia-a/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/sztuczne-cia-a/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/sztuczne-cia-a/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/sztuczne-cia-a/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/sztuczne-cia-a/cover.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://muzyka.eterel.art/en/release/sztuczne-cia-a/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/sztuczne-cia-a/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/sztuczne-cia-a/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/sztuczne-cia-a/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/sztuczne-cia-a/cover.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://muzyka.eterel.art/release/kruk-nocy-gdy-noc-otwiera-drzw/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/kruk-nocy-gdy-noc-otwiera-drzw/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/kruk-nocy-gdy-noc-otwiera-drzw/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/kruk-nocy-gdy-noc-otwiera-drzw/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/kruk-nocy-gdy-noc-otwiera-drzw/cover.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/kruk-nocy-gdy-noc-otwiera-drzw/media/1790533115235-0d9b2016-jezdec.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/kruk-nocy-gdy-noc-otwiera-drzw/media/1790533134743-7a5c3710-bramy.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://muzyka.eterel.art/en/release/kruk-nocy-gdy-noc-otwiera-drzw/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/kruk-nocy-gdy-noc-otwiera-drzw/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/kruk-nocy-gdy-noc-otwiera-drzw/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/kruk-nocy-gdy-noc-otwiera-drzw/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/kruk-nocy-gdy-noc-otwiera-drzw/cover.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/kruk-nocy-gdy-noc-otwiera-drzw/media/1790533115235-0d9b2016-jezdec.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/kruk-nocy-gdy-noc-otwiera-drzw/media/1790533134743-7a5c3710-bramy.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://muzyka.eterel.art/release/bard-ghul-ballady-nocy/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/bard-ghul-ballady-nocy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/bard-ghul-ballady-nocy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/bard-ghul-ballady-nocy/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/bard-ghul-ballady-nocy/cover.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/bard-ghul-ballady-nocy/media/1790532276664-1bf36feb-01.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/bard-ghul-ballady-nocy/media/1790532292085-dd71428c-3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/bard-ghul-ballady-nocy/media/1790532298751-0489e00b-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/bard-ghul-ballady-nocy/media/1790532303417-df8387e5-4.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/bard-ghul-ballady-nocy/media/1790532319958-9f7c42cd-8.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/bard-ghul-ballady-nocy/media/1790532379693-b2441993-dramat.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://muzyka.eterel.art/en/release/bard-ghul-ballady-nocy/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/bard-ghul-ballady-nocy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/bard-ghul-ballady-nocy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/bard-ghul-ballady-nocy/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/bard-ghul-ballady-nocy/cover.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/bard-ghul-ballady-nocy/media/1790532276664-1bf36feb-01.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/bard-ghul-ballady-nocy/media/1790532292085-dd71428c-3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/bard-ghul-ballady-nocy/media/1790532298751-0489e00b-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/bard-ghul-ballady-nocy/media/1790532303417-df8387e5-4.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/bard-ghul-ballady-nocy/media/1790532319958-9f7c42cd-8.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/bard-ghul-ballady-nocy/media/1790532379693-b2441993-dramat.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://muzyka.eterel.art/release/wiatry-losu/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/wiatry-losu/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/wiatry-losu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/wiatry-losu/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/wiatry-losu/cover.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/wiatry-losu/media/1790528080621-dd566c63-wiatry-losu---smutki-deszczu_25.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://muzyka.eterel.art/en/release/wiatry-losu/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/wiatry-losu/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/wiatry-losu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/wiatry-losu/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/wiatry-losu/cover.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/wiatry-losu/media/1790528080621-dd566c63-wiatry-losu---smutki-deszczu_25.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://muzyka.eterel.art/release/puls-nocy/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/puls-nocy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/puls-nocy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/puls-nocy/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/cover.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/media/1790526305301-7cce8df7-klubowy-puls-nocy2.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/media/1790526317502-464b7f1a-11.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/media/1790526324808-b714bc18-klubowy-puls-nocy5.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/media/1790526329205-0e81da93-braty.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/media/1790526337781-37befa79-13.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/media/1790526342382-f07f8505-klubowy-puls-nocy3_9.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/media/1790526347404-6d010394-dance.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/media/1790526352353-5f0cbbcb-klubowy-puls-nocy5.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/media/1790526363037-c8486d95-wychodz.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/media/1790526370565-67f83604-klubowy-puls-nocy16.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/media/1790526381278-fbb1ee03-6.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://muzyka.eterel.art/en/release/puls-nocy/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://muzyka.eterel.art/release/puls-nocy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://muzyka.eterel.art/en/release/puls-nocy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://muzyka.eterel.art/release/puls-nocy/" />
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/cover.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/media/1790526305301-7cce8df7-klubowy-puls-nocy2.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/media/1790526317502-464b7f1a-11.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/media/1790526324808-b714bc18-klubowy-puls-nocy5.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/media/1790526329205-0e81da93-braty.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/media/1790526337781-37befa79-13.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/media/1790526342382-f07f8505-klubowy-puls-nocy3_9.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/media/1790526347404-6d010394-dance.jpg</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/media/1790526352353-5f0cbbcb-klubowy-puls-nocy5.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/media/1790526363037-c8486d95-wychodz.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/media/1790526370565-67f83604-klubowy-puls-nocy16.png</image:loc></image:image>
+    <image:image><image:loc>https://muzyka.eterel.art/assets/albums/puls-nocy/media/1790526381278-fbb1ee03-6.jpg</image:loc></image:image>
   </url>
 </urlset>

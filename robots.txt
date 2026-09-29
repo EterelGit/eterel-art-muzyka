@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://muzyka.eterel.art/sitemap.xml
-Host: muzyka.eterel.art

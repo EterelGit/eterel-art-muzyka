@@ -1,4 +1,4 @@
-# Eterel Art Music - Apache Production Configuration
+# Eterel Art Muzyka - Apache Production Configuration
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteCond %{REQUEST_FILENAME} !-f
